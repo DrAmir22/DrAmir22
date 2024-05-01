@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DrAmir22
 - 👀 I’m interested in Electrical Engineering Domains  
-- 🌱 I’m currently learning AI/ML/Optimization of Energy and Transportation
+- 🌱 I’m currently learning AI/ML/Optimization for Energy, Smartgrid, and Vehicle Applications 
 - 💞️ I’m looking to collaborate on research opportunities
 - 📫 How to reach me https://www.linkedin.com/in/mohammad-amir-phd-ieeem/
 
