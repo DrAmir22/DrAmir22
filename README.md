@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DrAmir22
 - 👀 I’m interested in Digital Technologies in Electrical and Energy Engineering Domains  
 - 🌱 I’m currently learning AI/ML/Optimization for Energy, Smartgrids, Battery, and Vehicle Applications 
-- 💞️ I’m looking to collaborate on research opportunities
 - 📫 How to reach me [https://www.linkedin.com/in/mohammad-amir-phd/]
 
 <!---
